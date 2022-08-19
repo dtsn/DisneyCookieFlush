@@ -10,7 +10,7 @@ This will flush the non-essential cookies from your Disney session (keeping you 
 
 ~~You can use the bookmarklet (drag the link below into your bookmarks bar);~~ Github doesn't allow me to create one.
 
-Copy and paste the code into your console for now.
+Copy and paste the code from `main.js` into your console for now.
 
 ## Why these cookies
 
